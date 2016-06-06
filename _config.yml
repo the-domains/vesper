@@ -1,0 +1,14 @@
+layout_spectrum: 0.6917152835521847
+typography_spectrum: 0.7083836777601391
+color:
+  brandStrength: 0.1739446900319308
+  lightness: 0.24179322854615748
+  saturation: 0.5354664735496044
+  rhythmicContrast: 0.43603250035084784
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: VESPER
